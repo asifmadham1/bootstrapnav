@@ -1,0 +1,16 @@
+*{
+    font-family: poppins;
+}
+h1{
+    font-weight: 800;
+    font-size: 48px;
+}
+.content{
+    margin-top: 10rem;
+
+}
+.buttons{
+    display: flex;
+    gap: 55px;
+}
+
